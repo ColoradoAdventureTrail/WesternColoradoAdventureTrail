@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "820814196057",
+    "firebase_url": "https://colorado-adventure-trail.firebaseio.com",
+    "project_id": "colorado-adventure-trail",
+    "storage_bucket": "colorado-adventure-trail.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820814196057:android:bc58eb0982ac6d2dd8b048",
+        "android_client_info": {
+          "package_name": "coloradoadventuretrail.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "820814196057-78g5lpmq9h1peg4ft1n9p1nbn7pu5c2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACySntxv168Z8SgfYG8hvNnTfkfLBhfl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "820814196057-78g5lpmq9h1peg4ft1n9p1nbn7pu5c2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
